@@ -686,7 +686,7 @@ ul.timeline{
 
 .timeline li .line-title{
     font-size: 14px;
-    line-height: 6px;
+    line-height: 20px;
 }
 
 .timeline li:first-child{
@@ -1824,6 +1824,7 @@ footer .footer .copyright a:hover{
         font-size: 20px;
         margin-right: 23px;
         cursor: pointer;
+        margin-top: 8px;
         line-height: 71px;
         border-left: solid 1px #eaeaea;
         padding-left: 21px;
@@ -1835,7 +1836,7 @@ footer .footer .copyright a:hover{
 
     .social-icons{
         margin-right: 14px;
-        line-height: 67px;
+        line-height: 47px;
     }
 
     .portfolio-content .namenprice .blog-title{
